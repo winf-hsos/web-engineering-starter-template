@@ -1,3 +1,3 @@
 # Web Engineering Starter Template
 
-The starter template for simple applications in the Web Engineering course.
+This is a simple starter template for the course *Web Engineering*.
